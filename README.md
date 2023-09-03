@@ -1,5 +1,5 @@
 # TicTacToe
-Very simple tic tac toe game designed using Object-Oriented principles in Python
+Simple tic tac toe game designed using Object-Oriented principles in Python
 
 Enter the following commands to run:
 
